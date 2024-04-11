@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypingCoach.API", "TypingCoach.API\TypingCoach.API.csproj", "{68800935-DF56-4297-B5F6-68CC9F59993D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypingCoach.Core", "TypingCoach.Core\TypingCoach.Core.csproj", "{614DFB4E-06C6-4EAE-86E0-B4E43A4AC1FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68800935-DF56-4297-B5F6-68CC9F59993D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68800935-DF56-4297-B5F6-68CC9F59993D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68800935-DF56-4297-B5F6-68CC9F59993D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68800935-DF56-4297-B5F6-68CC9F59993D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{614DFB4E-06C6-4EAE-86E0-B4E43A4AC1FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{614DFB4E-06C6-4EAE-86E0-B4E43A4AC1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{614DFB4E-06C6-4EAE-86E0-B4E43A4AC1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{614DFB4E-06C6-4EAE-86E0-B4E43A4AC1FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F88DE600-9E7F-4C4A-8230-252F8DDD6383}
+	EndGlobalSection
+EndGlobal
